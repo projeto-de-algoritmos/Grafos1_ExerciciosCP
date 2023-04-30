@@ -69,4 +69,4 @@ Como o problema já nos garante que o grafo dado é um componente conectado, pod
 
 O código para a solução pode ser encontrado [aqui](./solution.cpp)
 
-<!-- https://github.com/Thalisson-Alves/Grafos1_ExerciciosCP/blob/d67695ef482f57e3a0042f45a8cade1d63e828a6/Maze/solution.cpp#LL1C1-L61C2 -->
+https://github.com/Thalisson-Alves/Grafos1_ExerciciosCP/blob/3e6f261a189e7519c498c15224fb619bb0a1b2fb/Maze/solution.cpp#L6-L12
