@@ -61,12 +61,8 @@ X.#.
 #...
 ```
 
-# Solução
+# [Solução](./solution.cpp)
 
 Podemos enxergar a matriz dada pelo problema como um grafo, onde cada célula vazia da matriz representa um vértice do grafo e existe uma aresta entre duas células vazias que compartilham um mesmo lado.
 
 Como o problema já nos garante que o grafo dado é um componente conectado, podemos executar uma BFS ou uma DFS partindo de uma célula vazia, essa travessia por sí visitaria todas as **s** células vazias, porém podemos parar a busca quando visitarmos **s-k** células. As células visitadas por essa travessia representam um componente conectado e sobram exatamente **k** células vazias que não foram visitadas nessa travessia, podemos então adicionar uma parede nessas células.
-
-O código para a solução pode ser encontrado [aqui](./solution.cpp)
-
-https://github.com/Thalisson-Alves/Grafos1_ExerciciosCP/blob/3e6f261a189e7519c498c15224fb619bb0a1b2fb/Maze/solution.cpp#L6-L12
