@@ -21,7 +21,7 @@ Os exercícios foram selecionados de diversas fontes, como Codeforces, CSES e At
 
 - **Nome:** [+1-1x2](https://atcoder.jp/contests/abc188/tasks/abc188_f)
 - **Conteúdo**:
-  - BFS/DFS
+  - BFS
 
 ### Exercício 3
 
@@ -35,6 +35,7 @@ Os exercícios foram selecionados de diversas fontes, como Codeforces, CSES e At
 
 - **Nome:** [Coin Collector](https://cses.fi/problemset/task/1686)
 - **Conteúdo**:
+  - DFS
   - Componentes fortemente conectados
   - Grafo condensado
   - DP
