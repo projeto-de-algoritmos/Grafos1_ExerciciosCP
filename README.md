@@ -20,7 +20,7 @@ Os exercícios foram selecionados de diversas fontes, como Codeforces, CSES e At
 
 <center>
 
-![](../assets/Maze.png)
+![](./assets/Maze.png)
 </center>
 
 ### Exercício 2 - [+1-1x2](./%2B1-1x2/)
@@ -30,7 +30,7 @@ Os exercícios foram selecionados de diversas fontes, como Codeforces, CSES e At
 
 <center>
 
-![](../assets/+1-1x2.png)
+![](./assets/+1-1x2.png)
 </center>
 
 ### Exercício 3 - [Friendly Spiders](./Friendly-Spiders/)
@@ -41,7 +41,7 @@ Os exercícios foram selecionados de diversas fontes, como Codeforces, CSES e At
 
 <center>
 
-![](../assets/Friendly-Spiders.png)
+![](./assets/Friendly-Spiders.png)
 </center>
 
 ### Exercício 4 - [Coin Collector](./Coin-Collector/)
@@ -53,7 +53,7 @@ Os exercícios foram selecionados de diversas fontes, como Codeforces, CSES e At
 
 <center>
 
-![](../assets/Coin-Collector.png)
+![](./assets/Coin-Collector.png)
 </center>
 
 ## Instalação 
