@@ -68,3 +68,5 @@ Podemos enxergar a matriz dada pelo problema como um grafo, onde cada célula va
 Como o problema já nos garante que o grafo dado é um componente conectado, podemos executar uma BFS ou uma DFS partindo de uma célula vazia, essa travessia por sí visitaria todas as **s** células vazias, porém podemos parar a busca quando visitarmos **s-k** células. As células visitadas por essa travessia representam um componente conectado e sobram exatamente **k** células vazias que não foram visitadas nessa travessia, podemos então adicionar uma parede nessas células.
 
 O código para a solução pode ser encontrado [aqui](./solution.cpp)
+
+https://github.com/Thalisson-Alves/Grafos1_ExerciciosCP/blob/d67695ef482f57e3a0042f45a8cade1d63e828a6/Maze/solution.cpp#LL1C1-L61C2
