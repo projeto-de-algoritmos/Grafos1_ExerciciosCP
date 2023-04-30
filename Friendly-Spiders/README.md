@@ -13,7 +13,7 @@
     - [Saída 3](#saída-3)
 - [Solução](#solução)
 
-# [Friendly Spiders](https://cses.fi/problemset/task/1686)
+# [Friendly Spiders](https://codeforces.com/contest/1775/problem/D)
 
 Mars is home to an unusual species of spiders — Binary spiders.
 
