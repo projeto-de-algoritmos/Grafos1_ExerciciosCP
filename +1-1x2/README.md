@@ -71,8 +71,8 @@ Podemos enxergar os valores **_X_** e **_Y_** como vértices de grafo, onde quer
 É importante notar que a única operação possível que nos permite ir para um vértice com valor menor que o atual é a **-1**. Portanto quando o valor de **_X_** é maior ou igual a **_Y_** podemos simplesmente retornar **_X_** - **_Y_**.
 
 Tendo em vista que esse grafo possui muitos vértices e arestas, é interessante buscar formas de reduzir o nosso escopo de busca. Para isso, podemos considerar as operações opostas às descritas no enunciado, ficando assim com um problema equivalente porém com uma quantidade reduzida de arestas no grafo. Utilizando as operações opostas queremos sair de **_Y_** e chegar em **_X_** com as seguintes operações:
-- **+ 1**
 - **- 1**
+- **+ 1**
 - **/ 2** (apenas quando **_Y_** é divisível por 2)
 
 Dessa forma, apenas os números pares podem utilizar a terceira operação.
