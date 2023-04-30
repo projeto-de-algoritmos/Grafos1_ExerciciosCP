@@ -13,19 +13,19 @@ Os exercícios foram selecionados de diversas fontes, como Codeforces, CSES e At
 
 ### Exercício 1
 
-- **Nome:** [Maze](https://codeforces.com/contest/377/problem/A)
+- **Nome:** [Maze](./Maze/)
 - **Conteúdo**:
   - BFS/DFS
 
 ### Exercício 2
 
-- **Nome:** [+1-1x2](https://atcoder.jp/contests/abc188/tasks/abc188_f)
+- **Nome:** [+1-1x2](./%2B1-1x2/)
 - **Conteúdo**:
   - BFS
 
 ### Exercício 3
 
-- **Nome:** [Friendly Spiders](https://codeforces.com/contest/1775/problem/D)
+- **Nome:** [Friendly Spiders](./Friendly-Spiders/)
 - **Conteúdo**:
   - Grafo Bipartido
   - BFS
@@ -33,7 +33,7 @@ Os exercícios foram selecionados de diversas fontes, como Codeforces, CSES e At
 
 ### Exercício 4
 
-- **Nome:** [Coin Collector](https://cses.fi/problemset/task/1686)
+- **Nome:** [Coin Collector](./Coin-Collector/)
 - **Conteúdo**:
   - DFS
   - Componentes fortemente conectados
@@ -44,7 +44,7 @@ Os exercícios foram selecionados de diversas fontes, como Codeforces, CSES e At
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
+**Linguagem**: C++<br>
 **Framework**: (caso exista)<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
