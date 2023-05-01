@@ -71,4 +71,4 @@ Para submeter as soluções siga os passos abaixo.
 
 ## Outros 
 
-TODO: link para o vídeo
+O vídeo pode ser acessado [aqui](video.mp4).
